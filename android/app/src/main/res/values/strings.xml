@@ -1,0 +1,4 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">Y6IDmUcJBxyaFbbawfOPpYQ-LKA22269e9dd-1cf1-4aa5-85ec-3b59bbeb7f50 </string>
+    <string name="app_name">noteBook</string>
+</resources>
